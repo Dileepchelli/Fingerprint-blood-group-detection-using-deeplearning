@@ -42,16 +42,15 @@ The system analyzes fingerprint patterns and predicts one of the 8 blood groups.
 > 📌 Add your screenshots inside a folder like `/screenshots/` in your repo
 
 ### 🔹 Main Interface
-![UI](screenshots/ui.png)
-
+![UI](templates/ui.png)
 ### 🔹 Upload Fingerprint
-![Upload](screenshots/upload.png)
+![Upload](templates/upload.png)
 
 ### 🔹 Prediction Output
-![Output](screenshots/output.png)
+![Output](templates/output.png)
 
 ### 🔹 Live Scan Result
-![Live](screenshots/live.png)
+![Live](templates/live.png)
 
 ---
 
